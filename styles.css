@@ -1,0 +1,16 @@
+body{background-color: #b7e1c5;
+margin:50px;
+text-align: center;}
+h1{color:#de8b59;
+font-size:80;
+font-style: italic;
+font-family: 'Pacifico', cursive;}
+h2{border: 10px solid #e794eb;
+background-color:#dab7e1;
+padding:20px;
+font-size: 26;}
+p{font-size:23;
+font-style: oblique;}
+a{color: #f58232;
+font-size:17px;}
+h3{font-size: 21;}
